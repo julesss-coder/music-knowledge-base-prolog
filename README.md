@@ -1,1 +1,0 @@
-# music-knowledge-base-prolog
